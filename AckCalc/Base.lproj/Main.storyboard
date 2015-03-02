@@ -26,7 +26,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dGI-S0-OkJ">
                                 <rect key="frame" x="24" y="132" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="7">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -34,7 +34,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rK8-bD-Tey">
                                 <rect key="frame" x="164" y="132" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="8">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -42,23 +42,23 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qv8-cg-zD7">
                                 <rect key="frame" x="304" y="132" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="9">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="htm-2M-hkc">
                                 <rect key="frame" x="444" y="132" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="54"/>
+                                <size key="titleShadowOffset" width="2" height="2"/>
+                                <state key="normal" title="+">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iAX-YO-7h0">
                                 <rect key="frame" x="24" y="249" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="4">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -66,7 +66,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ikI-n4-z0W">
                                 <rect key="frame" x="164" y="249" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="5">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -74,17 +74,17 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nEx-7F-uRR">
                                 <rect key="frame" x="304" y="249" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="6">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0lh-Ul-UlG">
                                 <rect key="frame" x="444" y="249" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="54"/>
+                                <size key="titleShadowOffset" width="2" height="2"/>
+                                <state key="normal" title="-">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mCK-zB-Ebo">
@@ -98,7 +98,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9nN-K7-SKM">
                                 <rect key="frame" x="164" y="366" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="2">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -106,49 +106,49 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gW3-ZW-ifI">
                                 <rect key="frame" x="304" y="366" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="3">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o9U-No-Vxx">
                                 <rect key="frame" x="444" y="366" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="54"/>
+                                <size key="titleShadowOffset" width="2" height="2"/>
+                                <state key="normal" title="/">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ATr-fO-FPd">
                                 <rect key="frame" x="24" y="483" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="40"/>
+                                <state key="normal" title="C">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3xG-t3-5Za">
                                 <rect key="frame" x="164" y="483" width="132" height="109"/>
                                 <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
+                                <state key="normal" title="0">
                                     <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ykd-oU-VhN">
                                 <rect key="frame" x="304" y="483" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="54"/>
+                                <state key="normal" title="=">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bL3-na-q8D">
                                 <rect key="frame" x="444" y="483" width="132" height="109"/>
-                                <fontDescription key="fontDescription" name="MalayalamSangamMN" family="Malayalam Sangam MN" pointSize="54"/>
-                                <state key="normal" title="1">
-                                    <color key="titleColor" red="1" green="0.1507230853" blue="0.38549606860000002" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" name="AppleSDGothicNeo-Bold" family="Apple SD Gothic Neo" pointSize="54"/>
+                                <size key="titleShadowOffset" width="2" height="2"/>
+                                <state key="normal" title="*">
+                                    <color key="titleColor" red="0.23211238849999999" green="0.69137463470000005" blue="0.78515625" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
                         </subviews>
