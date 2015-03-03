@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		684539851AA56E2A0070B409 /* ModelCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684539841AA56E2A0070B409 /* ModelCalc.swift */; };
 		6863811E1AA4D6630034258B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6863811D1AA4D6630034258B /* AppDelegate.swift */; };
 		686381201AA4D6630034258B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6863811F1AA4D6630034258B /* ViewController.swift */; };
 		686381231AA4D6630034258B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 686381211AA4D6630034258B /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		684539841AA56E2A0070B409 /* ModelCalc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelCalc.swift; sourceTree = "<group>"; };
 		686381181AA4D6630034258B /* AckCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AckCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6863811C1AA4D6630034258B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6863811D1AA4D6630034258B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				6863811D1AA4D6630034258B /* AppDelegate.swift */,
 				6863811F1AA4D6630034258B /* ViewController.swift */,
+				684539841AA56E2A0070B409 /* ModelCalc.swift */,
 				686381211AA4D6630034258B /* Main.storyboard */,
 				686381241AA4D6630034258B /* Images.xcassets */,
 				686381261AA4D6630034258B /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				686381201AA4D6630034258B /* ViewController.swift in Sources */,
 				6863811E1AA4D6630034258B /* AppDelegate.swift in Sources */,
+				684539851AA56E2A0070B409 /* ModelCalc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +409,7 @@
 				686381391AA4D6630034258B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6863813A1AA4D6630034258B /* Build configuration list for PBXNativeTarget "AckCalcTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +418,7 @@
 				6863813C1AA4D6630034258B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
