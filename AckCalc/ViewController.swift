@@ -82,7 +82,7 @@ class ViewController: UIViewController {
     @IBAction func keyClear() {
         isTypingDigit = false
         isTypingOp = false
-        displayString = "0.00"
+        displayString = "0"
         modelCalc.clear()
     }
     
